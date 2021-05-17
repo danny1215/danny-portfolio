@@ -10,15 +10,13 @@ function Footer() {
     return(
         <footer className='mt-5'>
         <Container fluid={true}> 
-        <Row className='border-top justify-content-between p-3'>
+        {/* <Row className='border-top justify-content-between p-3'> */}
         <Col className='foot'>
             <span>Daniel Mestawat &copy; 2021 all rights reserved!</span>
             </Col>
-            <Col className='footer'>
-            <span>Daniel Mestawat &copy; 2021 all rights reserved!</span>
-            </Col>
-            
-        </Row>
+           
+{/*             
+        </Row> */}
         </Container>
     </footer> 
     )

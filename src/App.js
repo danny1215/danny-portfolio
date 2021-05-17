@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/nav';
 // import NavbarBrand from 'react-bootstrap/NavbarBrand';
 import Footer from './components/footer';
 import  HomePage from './pages/homePage';
-import  AboutPage from './pages/aboutPage';
+import  PortfolioPage from './pages/portfolioPage';
 import  ContactPage from './pages/contactPage'
 
 
@@ -19,16 +19,16 @@ class App extends React.Component{
     this.state = {
       title: 'Daniel Mestawat',
       headerLinks: [
-        {title: 'Home', path:'/'},
-        {title: 'About', path:'/about'},
+        {title: 'About', path:'/'},
+        {title: 'Portfolio', path:'/portfolio'},
         {title: 'Contact', path:'/contact'}
       ],
       home: {
-        title: 'portofolio',
-        text: 'home'
+        title: 'About Me',
+        text: 'paragraph of me'
       },
-      about: {
-        text: 'about me'
+      Portfolio: {
+        title: 'Portfolio'
       },
       contact: {
         text: 'contact me'
@@ -48,7 +48,7 @@ render() {
           
           <Nav className='ml-auto'>
             <Link className='nav-Link' to='/'>Home</Link>
-            <Link className='nav-Link' to='/about'>About</Link>
+            <Link className='nav-Link' to='/portfolio'>Portfolio</Link>
             <Link className='nav-Link' to='/contact'>Contact</Link>
 
                 
@@ -56,7 +56,7 @@ render() {
         </Navbar.Collapse>
         </Navbar>
         <Route path='/' exact render={() => <HomePage title={this.state.home.title} text={this.state.home.text}/>}/> 
-        <Route path='/about' exact render={() => <AboutPage text={this.state.about.text}/>}/> 
+        <Route path='/portfolio' exact render={() => <PortfolioPage title={this.state.Portfolio.title}/>}/> 
         <Route path='/contact' exact render={() => <ContactPage text={this.state.contact.text} />}/>     
         <Footer/>
       </Container>
