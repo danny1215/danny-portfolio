@@ -1,29 +1,70 @@
+ 
 import React from 'react';
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import footer from './footer.css'
+import {Link} from "react-scroll";
+import { EmailIcon, EmailShareButton, LinkedinShareButton, LinkedinIcon } from "react-share";
 
+const Footer = () => {
+    return (
+        <div className="footer">
+            <div className="container">
+                <div className="row">
+                    <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="d-flex">
+                            <p>Woodbridge, VA.</p>
+                        </div>
+                        <div className="d-flex">
+                            <a href="tel:555-555-5555">484-569-2812</a>
+                        </div>
+                        <div className="d-flex">
+                            <p>dannymamusha@gmail.com</p>
+                        </div>
+                    </div>
+                    <div className=" col-lg-3 col-md-2 col-sm-6">
+                    <div className="row">
+                    <div className="col">
+                        <Link smooth={true} to="home" offset={-110} className="footer-nav">Home</Link>
+                        <br />
+                        <Link smooth={true} to="about" offset={-110} className="footer-nav">About Me</Link>
+                        <br />
+                        <Link smooth={true} to="services" offset={-110} className="footer-nav">Services</Link>
+                    </div>
+                    <div className="col">
+                        <Link smooth={true} to="resume" offset={-110} className="footer-nav">Resume</Link>
+                        <br />
+                        <Link smooth={true} to="portfolio" offset={-110} className="footer-nav">Portfolio</Link>
+                        <br />
+                        <Link smooth={true} to="contacts" offset={-110} className="footer-nav">Contact</Link>
+                    </div>
 
-function Footer() {
+                    </div>
+                    </div>
+                    <div className="col-lg-5 col-md-5 col-sm-6 align-items-center">
+                    <div className="d-flex justify-content-center">
+                        <LinkedinShareButton 
+                        url={"https://www.linkedin.com/in/daniel-mestawat-5280691b6/"}
+                        quote={"FullStack Developer"}
+                        hashtag="#javascript"
+                        >
+                            <LinkedinIcon className="mx-3" size={36}/>
+                        </LinkedinShareButton>
+                        <EmailShareButton 
+                        url={"https://www.linkedin.com/in/daniel-mestawat-5280691b6/"}
+                        >         
+                            <EmailIcon className="mx-3" size={36}/>
+                        </EmailShareButton>
 
-    return(
-        <footer className='mt-5'>
-        <Container fluid={true}> 
-        <Row className='border-top justify-content-between p-3'>
-        <Col className='foot'>
-            <span>Daniel Mestawat &copy; 2021 all rights reserved!</span>
-            </Col>
-            <Col className='footer'>
-            <span>Daniel Mestawat &copy; 2021 all rights reserved!</span>
-            </Col>
+                    </div>
+                    <p className="p-3 text-center">
+                        Copyright&copy;
+                        {new Date().getFullYear()}&nbsp;daniel mestawat | All Rights Reserved
+                    </p>
+
+                    </div>
+                </div>
+            </div>
             
-        </Row>
-        </Container>
-    </footer> 
+        </div>
     )
-    
 }
 
-
-export default Footer;
+export default Footer
