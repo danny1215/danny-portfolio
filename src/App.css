@@ -356,13 +356,13 @@ border-top: 0.1875rem solid var(--secondary-pink);
 .portfolio-image-box {
   position: relative;
   margin: 1rem;
-  content: 240px 140px;
 
 }
 
 .popupbox-wrapper {
   margin-top: 5rem;
 }
+
 
 /* ********************** OverFlow ************************ */
 

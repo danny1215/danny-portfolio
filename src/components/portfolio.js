@@ -1,11 +1,11 @@
 import React from "react";
 import budget from "./images/Budget tracker.png";
-import burger from "./images/Healthcare Scheduler.png";
-import fitness from "./images/Screenshot (152).png";
-import foodastic from "./images/Screenshot (170).png";
-import petocracy from "./images/image3.png";
-import weather from "./images/dubai_image_0.jpg";
-import quiz from "./images/DAYSCHEDULER.PNG";
+import Healthcare from "./images/Healthcare Scheduler.png";
+import Team from "./images/Screenshot (152).png";
+import Burger from "./images/Screenshot (170).png";
+import weather from "./images/image3.png";
+import travel from "./images/dubai_image_0.jpg";
+import Bussy from "./images/Bussy-day-scheduler.png";
 // Font Awesome Imports
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearchPlus } from "@fortawesome/free-solid-svg-icons";
@@ -16,10 +16,10 @@ import "react-popupbox/dist/react-popupbox.css";
 const Portfolio = () => {
 
 // Petocracy
-const openPopupboxPetocracy = () => {
+const openPopupboxWeather = () => {
     const content = (
     <>
-    <img className="portfolio-image-popupbox" src = {petocracy} alt="Petocracy App" />
+    <img className="portfolio-image-popupbox" src = {weather} alt="weather App" />
     <p>DM-Weather-Dashboard-06</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/DM-Weather-Dashboard-06", "_blank")}
     >https://github.com/danny1215/DM-Weather-Dashboard-06</a>
@@ -36,10 +36,10 @@ PopupboxManager.update({  content, config: {
     
 };
 
-const popupboxConfigPetocracy = {
+const popupboxConfigWeather = {
     titleBar: {
         enable: true,
-        text: "Petocracy App"
+        text: "weather App"
     },
     fadeIn: true,
     fadeInSpeed: 500,
@@ -47,10 +47,10 @@ const popupboxConfigPetocracy = {
 };
 
 // Foodtastic
-const openPopupboxFoodtastic = () => {
+const openPopupboxBurger= () => {
     const content = (
     <>
-    <img className="portfolio-image-popupbox" src = {foodastic} alt="Foodastic App" />
+    <img className="portfolio-image-popupbox" src = {Burger} alt="Burger App" />
     <p>Burger bieng Devoured or Not</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/burger", "_blank")}
     >https://github.com/danny1215/burger</a>
@@ -67,10 +67,10 @@ PopupboxManager.update({  content, config: {
     
 };
 
-const popupboxConfigFoodtastic = {
+const popupboxConfigBurger = {
     titleBar: {
         enable: true,
-        text: "Foodastic App"
+        text: "Burger App"
     },
     fadeIn: true,
     fadeInSpeed: 500,
@@ -79,10 +79,10 @@ const popupboxConfigFoodtastic = {
 
 
 // Quiz
-const openPopupboxQuiz = () => {
+const openPopupboxBussy = () => {
     const content = (
     <>
-    <img className="portfolio-image-popupbox" src = {quiz} alt="State Capital App" />
+    <img className="portfolio-image-popupbox" src = {Bussy} alt="Bussy App" />
     <p>Ready To make a schedule for a day time!</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/danielHomeWork5", "_blank")}
     >https://github.com/danny1215/danielHomeWork5</a>
@@ -99,10 +99,10 @@ PopupboxManager.update({  content, config: {
     
 };
 
-const popupboxConfigQuiz = {
+const popupboxConfigBussy= {
     titleBar: {
         enable: true,
-        text: "Quiz App"
+        text: "Bussy App"
     },
     fadeIn: true,
     fadeInSpeed: 500,
@@ -141,10 +141,10 @@ const popupboxConfigBudget = {
 };
 
 // Burger Logger App
-const openPopupboxBurger = () => {
+const openPopupboxHealthcare = () => {
     const content = (
     <>
-    <img className="portfolio-image-popupbox" src = {burger} alt="healthcare-scheduler App" />
+    <img className="portfolio-image-popupbox" src = {Healthcare} alt="healthcare-scheduler App" />
     <p>Ready to schedule a home healthcare schedule!</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/healthcare-scheduler", "_blank")}
     >https://github.com/danny1215/healthcare-scheduler</a>
@@ -161,10 +161,10 @@ PopupboxManager.update({  content, config: {
     
 };
 
-const popupboxConfigBurger = {
+const popupboxConfigHealthcare = {
     titleBar: {
         enable: true,
-        text: "Burger Logger App"
+        text: "Healthcare App"
     },
     fadeIn: true,
     fadeInSpeed: 500,
@@ -173,10 +173,10 @@ const popupboxConfigBurger = {
 
 
 // Fitness Tracking App
-const openPopupboxFitness = () => {
+const openPopupboxTeam = () => {
     const content = (
     <>
-    <img className="portfolio-image-popupbox" src = {fitness} alt="Fitness Tracking App" />
+    <img className="portfolio-image-popupbox" src = {Team} alt="Team Tracking App" />
     <p>An easy access of engineers profile </p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/Danny-Team-Profile-Generator", "_blank")}
     >https://github.com/danny1215/Danny-Team-Profile-Generator</a>
@@ -193,10 +193,10 @@ PopupboxManager.update({  content, config: {
     
 };
 
-const popupboxConfigFitness = {
+const popupboxConfigTeam = {
     titleBar: {
         enable: true,
-        text: "Fitness Tracking App"
+        text: "Team Tracking App"
     },
     fadeIn: true,
     fadeInSpeed: 500,
@@ -204,10 +204,10 @@ const popupboxConfigFitness = {
 };
 
 // Weather App
-const openPopupboxWeather = () => {
+const openPopupboxtravel = () => {
     const content = (
     <>
-    <img className="portfolio-image-popupbox" src = {weather} alt="Weather App" />
+    <img className="portfolio-image-popupbox" src = {travel} alt="travel App" />
     <p>A guidance to find deliciouse foods, location of restourants.</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/group_project", "_blank")}
     >https://github.com/danny1215/group_project</a>
@@ -224,10 +224,10 @@ PopupboxManager.update({  content, config: {
     
 };
 
-const popupboxConfigWeather = {
+const popupboxConfigtravel = {
     titleBar: {
         enable: true,
-        text: "Weather App"
+        text: "travel App"
     },
     fadeIn: true,
     fadeInSpeed: 500,
@@ -239,21 +239,21 @@ const popupboxConfigWeather = {
             <div className= "container">
                 <h1 className="text-uppercase text-center py">Portfolio</h1>
                 <div className="image-box-wrapper row justify-content-center">
-                    <div className="portfolio-image-box" onClick={openPopupboxPetocracy}>
-                    <img className="portfolio-image" src={petocracy} alt="Petocracy App" />
+                    <div className="portfolio-image-box" onClick={openPopupboxWeather}>
+                    <img className="portfolio-image" src={weather} alt="weather App" />
                     <div className="overflow"></div>
                     <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
                 </div>
                 {/* - */}
-                <div className="portfolio-image-box" onClick={openPopupboxFoodtastic}>
-                    <img className="portfolio-image" src={foodastic} alt="Foodastic App" />
+                <div className="portfolio-image-box" onClick={openPopupboxBurger}>
+                    <img className="portfolio-image" src={Burger} alt="Burger App" />
                     <div className="overflow"></div>
                     <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
 
                 </div>
                 {/* - */}
-                <div className="portfolio-image-box" onClick={openPopupboxQuiz}>
-                    <img className="portfolio-image" src={quiz} alt="State Capital Quiz App" />
+                <div className="portfolio-image-box" onClick={openPopupboxBussy}>
+                    <img className="portfolio-image" src={Bussy} alt="Bussy workday App" />
                     <div className="overflow"></div>
                     <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
 
@@ -268,22 +268,22 @@ const popupboxConfigWeather = {
 
                 </div>
                 {/* - */}
-                <div className="portfolio-image-box" onClick={openPopupboxBurger}>
-                    <img className="portfolio-image" src={burger} alt="Burger Logger App" />
+                <div className="portfolio-image-box" onClick={openPopupboxHealthcare}>
+                    <img className="portfolio-image" src={Healthcare} alt="HealthCare App" />
                     <div className="overflow"></div>
                     <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
 
                 </div>
                 {/* - */}
-                <div className="portfolio-image-box" onClick={openPopupboxFitness}>
-                    <img className="portfolio-image" src={fitness} alt="Fitness Tracking App" />
+                <div className="portfolio-image-box" onClick={openPopupboxTeam}>
+                    <img className="portfolio-image" src={Team} alt="Team Tracking App" />
                     <div className="overflow"></div>
                     <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
 
                 </div>
                 {/* - */}
-                <div className="portfolio-image-box" onClick={openPopupboxWeather}>
-                    <img className="portfolio-image" src={weather} alt="Weather App" />
+                <div className="portfolio-image-box" onClick={openPopupboxtravel}>
+                    <img className="portfolio-image" src={travel} alt="travel App" />
                     <div className="overflow"></div>
                     <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
 
@@ -291,13 +291,13 @@ const popupboxConfigWeather = {
                 {/* - */}
                 </div>
             </div>
-            <PopupboxContainer {...popupboxConfigPetocracy} />
-            <PopupboxContainer {...popupboxConfigBudget} />
-            <PopupboxContainer {...popupboxConfigQuiz} />
-            <PopupboxContainer {...popupboxConfigFoodtastic} />
-            <PopupboxContainer {...popupboxConfigBurger} />
-            <PopupboxContainer {...popupboxConfigFitness} />
             <PopupboxContainer {...popupboxConfigWeather} />
+            <PopupboxContainer {...popupboxConfigBudget} />
+            <PopupboxContainer {...popupboxConfigBussy} />
+            <PopupboxContainer {...popupboxConfigBurger} />
+            <PopupboxContainer {...popupboxConfigHealthcare} />
+            <PopupboxContainer {...popupboxConfigTeam} />
+            <PopupboxContainer {...popupboxConfigtravel} />
             </div>
     )
 }

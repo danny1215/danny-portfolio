@@ -1,7 +1,8 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGoogle } from "@fortawesome/free-brands-svg-icons";
-import { faDesktop, faFileCode, faPaintBrush } from "@fortawesome/free-solid-svg-icons";
+// import { faGoogle} from "@fortawesome/free-brands-svg-icons";
+import * as Brands from '@fortawesome/free-brands-svg-icons';
+import * as Icons from "@fortawesome/free-solid-svg-icons";
 
 function Services() {
     return (
@@ -12,7 +13,7 @@ function Services() {
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                             <div className="circle">
-                                <FontAwesomeIcon className="icon" icon={faPaintBrush} size="2x"/>
+                                <FontAwesomeIcon className="icon" icon={Icons.faPaintBrush} size="2x"/>
                                 </div>
                                 <h3>Web Design</h3>
                                 <p>With my design background, I approach each project individually and focus 
@@ -23,7 +24,7 @@ function Services() {
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                                 <div className="circle">
-                                <FontAwesomeIcon className="icon" icon={faDesktop} size="2x"/>
+                                <FontAwesomeIcon className="icon" icon={Icons.faDesktop} size="2x"/>
                                 </div>
                                 <h3>Web Development</h3>
                                 <p>Your wish is my command. I can bring your concept to full fruition.</p>
@@ -34,10 +35,11 @@ function Services() {
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                             <div className="circle">
-                                <FontAwesomeIcon className="icon" icon={faFileCode} size="2x"/>
+                                <FontAwesomeIcon className="icon" icon={Icons.faDatabase} size="2x"/>
                                 </div>
                                 <h3>Database design</h3>
-                                <p>Your wish is my command. I can bring your concept to full fruition.</p>
+                                <p>With my database background, I approach each project individually and focus 
+                                    on the result.</p>
                             </div>
                         </div>  
                         {/* - */}
@@ -45,7 +47,7 @@ function Services() {
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                             <div className="circle">
-                                <FontAwesomeIcon className="icon" icon={faGoogle} size="2x"/>
+                                <FontAwesomeIcon className="icon" icon={Brands.faGoogle} size="2x"/>
                                 </div>
                                 <h3>Mulesoft Developer</h3>
                                 <p>Using your website's metrics, we can drive more traffic to your site.</p>
