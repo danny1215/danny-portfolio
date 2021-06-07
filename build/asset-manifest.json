@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/danny-portfolio/static/css/main.aeb923fe.chunk.css",
+    "main.js": "/danny-portfolio/static/js/main.bb7587a4.chunk.js",
+    "main.js.map": "/danny-portfolio/static/js/main.bb7587a4.chunk.js.map",
+    "runtime-main.js": "/danny-portfolio/static/js/runtime-main.c995b8a7.js",
+    "runtime-main.js.map": "/danny-portfolio/static/js/runtime-main.c995b8a7.js.map",
+    "static/css/2.8c1ca1b3.chunk.css": "/danny-portfolio/static/css/2.8c1ca1b3.chunk.css",
+    "static/js/2.ff957305.chunk.js": "/danny-portfolio/static/js/2.ff957305.chunk.js",
+    "static/js/2.ff957305.chunk.js.map": "/danny-portfolio/static/js/2.ff957305.chunk.js.map",
+    "static/js/3.fdf9dc00.chunk.js": "/danny-portfolio/static/js/3.fdf9dc00.chunk.js",
+    "static/js/3.fdf9dc00.chunk.js.map": "/danny-portfolio/static/js/3.fdf9dc00.chunk.js.map",
+    "index.html": "/danny-portfolio/index.html",
+    "static/css/2.8c1ca1b3.chunk.css.map": "/danny-portfolio/static/css/2.8c1ca1b3.chunk.css.map",
+    "static/css/main.aeb923fe.chunk.css.map": "/danny-portfolio/static/css/main.aeb923fe.chunk.css.map",
+    "static/js/2.ff957305.chunk.js.LICENSE.txt": "/danny-portfolio/static/js/2.ff957305.chunk.js.LICENSE.txt",
+    "static/media/Budget tracker.cc9e2243.png": "/danny-portfolio/static/media/Budget tracker.cc9e2243.png",
+    "static/media/Bussy-day-scheduler.7872d43e.png": "/danny-portfolio/static/media/Bussy-day-scheduler.7872d43e.png",
+    "static/media/Healthcare Scheduler.3167ee59.png": "/danny-portfolio/static/media/Healthcare Scheduler.3167ee59.png",
+    "static/media/IMG-1120 (2).548aeac1.jpg": "/danny-portfolio/static/media/IMG-1120 (2).548aeac1.jpg",
+    "static/media/Screenshot (152).7558294b.png": "/danny-portfolio/static/media/Screenshot (152).7558294b.png",
+    "static/media/Screenshot (170).79dee9cf.png": "/danny-portfolio/static/media/Screenshot (170).79dee9cf.png",
+    "static/media/daniel mestawat-Resume (1).83569203.docx": "/danny-portfolio/static/media/daniel mestawat-Resume (1).83569203.docx",
+    "static/media/dubai_image_0.706ca5f1.jpg": "/danny-portfolio/static/media/dubai_image_0.706ca5f1.jpg",
+    "static/media/App.css": "/danny-portfolio/static/media/herohome.6fd884fa.jpg",
+    "static/media/image3.d0f8dfdd.png": "/danny-portfolio/static/media/image3.d0f8dfdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c995b8a7.js",
+    "static/css/2.8c1ca1b3.chunk.css",
+    "static/js/2.ff957305.chunk.js",
+    "static/css/main.aeb923fe.chunk.css",
+    "static/js/main.bb7587a4.chunk.js"
+  ]
+}
