@@ -14,7 +14,7 @@ const Resume = () => {
                     <div className="marker"></div>
                 <div className="timeline-content">
                     <h3>2019-Present</h3>
-                    <p>contract Detroit, MG
+                    <p>contract Detroit, MI
                             Oversaw the development, testing, and rollout of a complete suite of Web-based software solutions.
                             Effectively performed regular database backup.
                             Organized and created shooting schedules for graphic design team, supervising the progress of

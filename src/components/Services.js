@@ -16,7 +16,7 @@ function Services() {
                                 <FontAwesomeIcon className="icon" icon={Icons.faPaintBrush} size="2x"/>
                                 </div>
                                 <h3>Web Design</h3>
-                                <p>With my design background, I approach each project individually and focus 
+                                <p>As a full-stack developer, I can approach each project individually and focus 
                                     on the result.</p>
                             </div>
                         </div>
@@ -50,7 +50,7 @@ function Services() {
                                 <FontAwesomeIcon className="icon" icon={Brands.faGoogle} size="2x"/>
                                 </div>
                                 <h3>Mulesoft Developer</h3>
-                                <p>Using your website's metrics, we can drive more traffic to your site.</p>
+                                <p>By using a modern API-led approach, I can connect any applications, data and devices in the cloud and on-premises</p>
                             </div>
                         </div>  
                         {/* - */}
