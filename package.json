@@ -25,7 +25,6 @@
     "react-share": "^4.4.0",
     "react-typed": "^1.2.0",
     "web-vitals": "^1.1.2"
-    
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,7 +32,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -b master -d build",
+    "styles": "./node_modules/bootstrap/dist/css/bootstrap.min.css"
   },
   "eslintConfig": {
     "extends": [
