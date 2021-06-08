@@ -36,7 +36,7 @@ This Application can be used in any browser available. The purpose of this Web p
 
 ## SCREENSHOTS
 
-![navigationbar](screenshotImage/Screen Shot 2021-06-08 at 11.29.30 AM.png)
+![navigation bar](screenshotImage/Screen Shot 2021-06-08 at 11.29.30 AM.png)
 
 ![about me](screenshotImage/Screen Shot 2021-06-08 at 11.29.36 AM.png)
 
