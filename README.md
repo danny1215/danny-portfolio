@@ -43,12 +43,16 @@ This Application can be used in any browser available. The purpose of this Web p
 ![Screenshot (212)](https://user-images.githubusercontent.com/59859358/121393034-eea5a600-c91d-11eb-9185-8d91dac020d9.png)
 
 
-![Screenshot (214)](https://user-images.githubusercontent.com/59859358/121393655-90c58e00-c91e-11eb-85e1-6e447a216fb1.png)
+
+
+![Screenshot (215)](https://user-images.githubusercontent.com/59859358/121394652-9079c280-c91f-11eb-87cc-cf7f142785fe.png)
 
 
 
-![Screenshot (216)](https://user-images.githubusercontent.com/59859358/121393890-c8ccd100-c91e-11eb-97a3-0ed38b4d9651.png)
+
+![Screenshot (217)](https://user-images.githubusercontent.com/59859358/121394397-4a246380-c91f-11eb-8c96-514f949a6433.png)
  
 
-![Screenshot (219)](https://user-images.githubusercontent.com/59859358/121394088-ff0a5080-c91e-11eb-866e-84828583cc17.png)
+
+![Screenshot (219)](https://user-images.githubusercontent.com/59859358/121394467-5b6d7000-c91f-11eb-9001-43562a9806f9.png)
 
