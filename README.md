@@ -36,7 +36,10 @@ This Application can be used in any browser available. The purpose of this Web p
 
 ## SCREENSHOTS
 
-![navigation bar](screenshotImage/Screen Shot 2021-06-08 at 11.29.30 AM.png)
+![navigationbar](screenshotImage/Screen Shot 2021-06-08 at 11.29.30 AM.png)
+
+
+![Screenshot (210)](https://user-images.githubusercontent.com/59859358/121392348-4b549100-c91d-11eb-92a2-e42da1aebfda.png)
 
 ![about me](screenshotImage/Screen Shot 2021-06-08 at 11.29.36 AM.png)
 
