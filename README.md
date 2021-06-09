@@ -36,17 +36,19 @@ This Application can be used in any browser available. The purpose of this Web p
 
 ## SCREENSHOTS
 
-![navigationbar](screenshotImage/Screen Shot 2021-06-08 at 11.29.30 AM.png)
-
 
 ![Screenshot (210)](https://user-images.githubusercontent.com/59859358/121392348-4b549100-c91d-11eb-92a2-e42da1aebfda.png)
 
-![about me](screenshotImage/Screen Shot 2021-06-08 at 11.29.36 AM.png)
 
-![My services](screenshotImage/Screen Shot 2021-06-08 at 11.29.45 AM.png)
+![Screenshot (212)](https://user-images.githubusercontent.com/59859358/121393034-eea5a600-c91d-11eb-9185-8d91dac020d9.png)
 
-![Experience ](screenshotImage/Screen Shot 2021-06-08 at 11.29.50 AM.png)
+
+![Screenshot (214)](https://user-images.githubusercontent.com/59859358/121393655-90c58e00-c91e-11eb-85e1-6e447a216fb1.png)
+
+
+
+![Screenshot (216)](https://user-images.githubusercontent.com/59859358/121393890-c8ccd100-c91e-11eb-97a3-0ed38b4d9651.png)
  
-![Contact me](screenshotImage/Screen Shot 2021-06-08 at 11.29.56 AM.png)
 
-![Portfolio ](screenshotImage/Screen Shot 2021-06-08 at 12.00.55 PM.png)
+![Screenshot (219)](https://user-images.githubusercontent.com/59859358/121394088-ff0a5080-c91e-11eb-866e-84828583cc17.png)
+
