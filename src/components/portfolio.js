@@ -20,7 +20,7 @@ const openPopupboxWeather = () => {
     const content = (
     <>
     <img className="portfolio-image-popupbox" src = {weather} alt="weather App" />
-    <p>DM-Weather-Dashboard-06</p>
+    <p>This purspose of the application is to provide getting the weather of any city of <br></br>the entire world you wish to know.</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/DM-Weather-Dashboard-06", "_blank")}
     >https://github.com/danny1215/DM-Weather-Dashboard-06</a>
     <br></br>
@@ -46,12 +46,13 @@ const popupboxConfigWeather = {
 
 };
 
-// Foodtastic
+// Burger
 const openPopupboxBurger= () => {
     const content = (
     <>
     <img className="portfolio-image-popupbox" src = {Burger} alt="Burger App" />
     <p>Burger bieng Devoured or Not</p>
+    <p>The Purspose of the application is to create a new burger on the left <br></br>section and when a user is satisfied with the burger then it will be Devoured on the right section.</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/burger", "_blank")}
     >https://github.com/danny1215/burger</a>
     <br></br>
@@ -78,12 +79,13 @@ const popupboxConfigBurger = {
 };
 
 
-// Quiz
+// Schedule
 const openPopupboxBussy = () => {
     const content = (
     <>
     <img className="portfolio-image-popupbox" src = {Bussy} alt="Bussy App" />
     <p>Ready To make a schedule for a day time!</p>
+    <p>The purpose of this application is to provide saving a schedule for a day <br></br>time(that is 8 hour shift). The application works with the current time. That is from 9 Am-5Pm. It automatically saves the schedule you provide eventhough the browser is refreshed. The application has a timer specification color coded.</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/danielHomeWork5", "_blank")}
     >https://github.com/danny1215/danielHomeWork5</a>
     <br></br>
@@ -115,6 +117,7 @@ const openPopupboxBudget = () => {
     <>
     <img className="portfolio-image-popupbox" src = {budget} alt="Budget Tracker App" />
     <p>Need to track your spending? Use this Budget Tracker</p>
+    <p>The purpose of this application is to save the budgets we submited to mango database <br></br> And to IndexDB if we are working Offline. As soon as we <br></br>are back to online then it stores the data to MongoDB.</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/Danny-budget-Trackers", "_blank")}
     >https://github.com/danny1215/Danny-budget-Trackers</a>
     <br></br>
@@ -140,12 +143,13 @@ const popupboxConfigBudget = {
 
 };
 
-// Burger Logger App
+// HealthCare Scheduler
 const openPopupboxHealthcare = () => {
     const content = (
     <>
     <img className="portfolio-image-popupbox" src = {Healthcare} alt="healthcare-scheduler App" />
     <p>Ready to schedule a home healthcare schedule!</p>
+    <p>The purpose of this application is to easly create a user friendly page for a patient <br></br>inorder to make an appointment to gain a provider for the week days.</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/healthcare-scheduler", "_blank")}
     >https://github.com/danny1215/healthcare-scheduler</a>
     <br></br>
@@ -172,12 +176,13 @@ const popupboxConfigHealthcare = {
 };
 
 
-// Fitness Tracking App
+// Engineer Profile
 const openPopupboxTeam = () => {
     const content = (
     <>
     <img className="portfolio-image-popupbox" src = {Team} alt="Team Tracking App" />
     <p>An easy access of engineers profile </p>
+    <p>The purpose of this application is to provide a manager would have a quick <br></br>access to thier profile that is E-mail, github username so on and so forth.</p>
     <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/Danny-Team-Profile-Generator", "_blank")}
     >https://github.com/danny1215/Danny-Team-Profile-Generator</a>
     <br></br>
@@ -203,7 +208,7 @@ const popupboxConfigTeam = {
 
 };
 
-// Weather App
+// Travel Schedule
 const openPopupboxtravel = () => {
     const content = (
     <>
