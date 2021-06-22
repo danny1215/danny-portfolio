@@ -33,7 +33,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
-    "styles": "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+    "styles": ["./node_modules/bootstrap/dist/css/bootstrap.min.css"]
   },
   "eslintConfig": {
     "extends": [

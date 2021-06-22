@@ -9,6 +9,7 @@ import Experience from "./components/Resume";
 import Portfolio from "./components/Portfolio";
 import Contacts from "./components/Contacts";
 import Footer  from "./components/Footer";
+import TechnicalSkill from "./components/Technical-Skill";
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
    <AboutMe />
    <Services />
    <Experience />
+   <TechnicalSkill/>
    <Portfolio />
    <Contacts />
    <Footer />

@@ -334,6 +334,10 @@ border-top: 0.1875rem solid var(--secondary-pink);
 
 }
 
+
+
+
+
 /* ********************** Portfolio ************************ */
 
 .portfolio-wrapper {
@@ -347,7 +351,7 @@ border-top: 0.1875rem solid var(--secondary-pink);
 }
 
 .portfolio-image {
-  width: 17rem;
+  width: 30rem;
   border: 1px solid var(--secondary-pink);
   padding: 0.5rem 0.5rem;
 
@@ -369,8 +373,8 @@ border-top: 0.1875rem solid var(--secondary-pink);
   position:absolute;
    opacity: 0;
    background: var(--primary-pink);
-   width: 17rem;
-   height: 9rem;
+   width: 30rem;
+   height: 15rem;
    top: 0;
   border: 1px solid var(--secondary-pink);
   cursor: pointer;
@@ -400,7 +404,7 @@ border-top: 0.1875rem solid var(--secondary-pink);
 /* ********************** Popup box ************************ */
 
 .portfolio-image-popupbox{
-  width: 45rem;
+  width: 30rem;
   padding: 0 0.5rem;
   
 }
@@ -420,7 +424,7 @@ border-top: 0.1875rem solid var(--secondary-pink);
 /* Media */
 @media(max-width:768px) {
   .portfolio-image-popupbox {
-    width: 50%;
+    width: 100%;
   }
 }
 
