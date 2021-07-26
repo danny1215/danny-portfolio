@@ -24,7 +24,7 @@ This Application can be used in any browser available. The purpose of this Web p
 
 ## LINK TO THE REPOSITORY
 
--The link is [React Portfolio](https://github.com/danny1215/danny-portfolio)
+-The link is [danny-portfolio](https://github.com/danny1215/danny-portfolio)
 
 ##  DEPLOYED LINK
 
