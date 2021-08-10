@@ -24,7 +24,7 @@ This Application can be used in any browser available. The purpose of this Web p
 
 ## LINK TO THE REPOSITORY
 
--The link is [Updated Portofolio-Third](https://github.com/danny1215/danny-portfolio)
+-The link is [danny-portfolio](https://github.com/danny1215/danny-portfolio)
 
 ##  DEPLOYED LINK
 
@@ -36,14 +36,23 @@ This Application can be used in any browser available. The purpose of this Web p
 
 ## SCREENSHOTS
 
-![navigation bar](screenshotImage/Screen Shot 2021-06-08 at 11.29.30 AM.png)
 
-![about me](screenshotImage/Screen Shot 2021-06-08 at 11.29.36 AM.png)
+![Screenshot (210)](https://user-images.githubusercontent.com/59859358/121392348-4b549100-c91d-11eb-92a2-e42da1aebfda.png)
 
-![My services](screenshotImage/Screen Shot 2021-06-08 at 11.29.45 AM.png)
 
-![Experience ](screenshotImage/Screen Shot 2021-06-08 at 11.29.50 AM.png)
+![Screenshot (212)](https://user-images.githubusercontent.com/59859358/121393034-eea5a600-c91d-11eb-9185-8d91dac020d9.png)
+
+
+
+
+![Screenshot (215)](https://user-images.githubusercontent.com/59859358/121394652-9079c280-c91f-11eb-87cc-cf7f142785fe.png)
+
+
+
+
+![Screenshot (217)](https://user-images.githubusercontent.com/59859358/121394397-4a246380-c91f-11eb-8c96-514f949a6433.png)
  
-![Contact me](screenshotImage/Screen Shot 2021-06-08 at 11.29.56 AM.png)
 
-![Portfolio ](screenshotImage/Screen Shot 2021-06-08 at 12.00.55 PM.png)
+
+![Screenshot (219)](https://user-images.githubusercontent.com/59859358/121394467-5b6d7000-c91f-11eb-9001-43562a9806f9.png)
+
