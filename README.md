@@ -28,7 +28,7 @@ This Application can be used in any browser available. The purpose of this Web p
 
 ##  DEPLOYED LINK
 
-- The link is (https://danny1215.github.io/danny-portfolio/)
+- The link is https://danny1215.github.io/danny-portfolio/
 
 ## LICENCE
 
