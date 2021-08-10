@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/danny-portfolio/static/css/main.f998fdf1.chunk.css",
-    "main.js": "/danny-portfolio/static/js/main.572f1e24.chunk.js",
-    "main.js.map": "/danny-portfolio/static/js/main.572f1e24.chunk.js.map",
+    "main.js": "/danny-portfolio/static/js/main.8770e424.chunk.js",
+    "main.js.map": "/danny-portfolio/static/js/main.8770e424.chunk.js.map",
     "runtime-main.js": "/danny-portfolio/static/js/runtime-main.c995b8a7.js",
     "runtime-main.js.map": "/danny-portfolio/static/js/runtime-main.c995b8a7.js.map",
     "static/css/2.9f80b03e.chunk.css": "/danny-portfolio/static/css/2.9f80b03e.chunk.css",
@@ -20,7 +20,7 @@
     "static/media/IMG-1120 (2).548aeac1.jpg": "/danny-portfolio/static/media/IMG-1120 (2).548aeac1.jpg",
     "static/media/Screenshot (152).7558294b.png": "/danny-portfolio/static/media/Screenshot (152).7558294b.png",
     "static/media/Screenshot (170).79dee9cf.png": "/danny-portfolio/static/media/Screenshot (170).79dee9cf.png",
-    "static/media/daniel mestawat-Resume (1).83569203.docx": "/danny-portfolio/static/media/daniel mestawat-Resume (1).83569203.docx",
+    "static/media/daniel mestawat-Resume.docx.c5fc7333.pdf": "/danny-portfolio/static/media/daniel mestawat-Resume.docx.c5fc7333.pdf",
     "static/media/dubai_image_0.706ca5f1.jpg": "/danny-portfolio/static/media/dubai_image_0.706ca5f1.jpg",
     "static/media/App.css": "/danny-portfolio/static/media/herohome.6fd884fa.jpg",
     "static/media/image3.d0f8dfdd.png": "/danny-portfolio/static/media/image3.d0f8dfdd.png"
@@ -30,6 +30,6 @@
     "static/css/2.9f80b03e.chunk.css",
     "static/js/2.ff957305.chunk.js",
     "static/css/main.f998fdf1.chunk.css",
-    "static/js/main.572f1e24.chunk.js"
+    "static/js/main.8770e424.chunk.js"
   ]
 }
