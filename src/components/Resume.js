@@ -1,6 +1,5 @@
 import React from "react";
-import resume from "../components/images/daniel mestawat-Resume (1).docx";
-
+import resume from "../components/images/daniel mestawat-Resume.docx.pdf";
 const Resume = () => {
     return (
         <div id="resume" className="experience">

@@ -86,11 +86,11 @@ const openPopupboxBussy = () => {
     <img className="portfolio-image-popupbox" src = {Bussy} alt="Bussy App" />
     <p>Ready to make a schedule for your day? </p>
     <p>The purpose of this application is to provide the user to create a schedule for their day.<br></br> It works with the current timezone. It automatically saves the schedule you provide even <br></br>though the browser is refreshed. The application has a timer specification color coded.</p>
-    <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/danielHomeWork5", "_blank")}
-    >https://github.com/danny1215/danielHomeWork5</a>
+    <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/Work-day-schedule", "_blank")}
+    >https://github.com/danny1215/Work-day-schedule</a>
     <br></br>
-    <b>Deployed:</b> <a className="hyper-link" onClick={() => window.open("https://danny1215.github.io/danielHomeWork5/", "_blank")}
-    >https://danny1215.github.io/danielHomeWork5/</a>
+    <b>Deployed:</b> <a className="hyper-link" onClick={() => window.open("https://danny1215.github.io/Work-day-schedule/", "_blank")}
+    >https://danny1215.github.io/Work-day-schedule/</a>
     </>
 )
 PopupboxManager.open({ content });
@@ -214,11 +214,11 @@ const openPopupboxtravel = () => {
     <>
     <img className="portfolio-image-popupbox" src = {travel} alt="travel App" />
     <p>A guide to find delicious food and location of restaurants.</p>
-    <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/group_project", "_blank")}
-    >https://github.com/danny1215/group_project</a>
+    <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/danny1215/Travel-Guide", "_blank")}
+    >https://github.com/danny1215/Travel-Guide</a>
     <br></br>
-    <b>Deployed:</b> <a className="hyper-link" onClick={() => window.open("https://nataliasozontova.github.io/group_project/", "_blank")}
-    >https://nataliasozontova.github.io/group_project/</a>
+    <b>Deployed:</b> <a className="hyper-link" onClick={() => window.open("https://danny1215.github.io/Travel-Guide/", "_blank")}
+    >https://danny1215.github.io/Travel-Guide/</a>
     </>
 )
 PopupboxManager.open({ content });
